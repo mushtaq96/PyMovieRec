@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Ignore pickle files
+*.pkl
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables file
+.env
